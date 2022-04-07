@@ -1,0 +1,20 @@
+{
+    "g": "g4-7-22",
+    "mf": "https://genvip.club/bundle/ios/remote-assets/",
+    "dv": {
+        "i": true,
+        "a": true 
+    },
+    "ct": ["VN"],
+    "tl": ["VIETTEL", "VINAPHONE", "MOBIFONE", "VIETNAMOBILE", "ITEL"],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
